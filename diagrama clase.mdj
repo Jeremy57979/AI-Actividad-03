@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "Untitled",
+	"name": "TicTacToe",
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
@@ -11,15 +11,6 @@
 			},
 			"name": "Model",
 			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				},
 				{
 					"_type": "UMLClassDiagram",
 					"_id": "AAAAAAGd13ZiZc/TRFY=",
@@ -2451,7 +2442,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGd13uC69DGudc="
 									},
-									"name": "estado"
+									"name": "estado",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -2459,7 +2451,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGd13uC69DGudc="
 									},
-									"name": "alfa"
+									"name": "alfa",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -2467,7 +2460,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGd13uC69DGudc="
 									},
-									"name": "beta"
+									"name": "beta",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
